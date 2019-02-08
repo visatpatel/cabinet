@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # README
 
 This README would normally document whatever steps are necessary to get the
@@ -22,3 +23,7 @@ Things you may want to cover:
 * Deployment instructions
 
 * ...
+=======
+# cabinet
+cabinet app
+>>>>>>> b9e210ab668a2f88d4b77eed0a0f0aa46b369e6e
